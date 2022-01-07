@@ -33,6 +33,12 @@ export const UI: Store = {
       series: 'sonyps5c',
       url: 'https://store.ui.com/collections/unifi-network-unifi-os-consoles/products/unifi-dream-machine',
     },
+    {
+      brand: 'microsoft',
+      model: 'xbox series x',
+      series: 'xboxsx',
+      url: 'https://ca.store.ui.com/collections/unifi-network-unifi-os-consoles/products/unifi-dream-machine',
+    },
 
     
   ],

@@ -27,12 +27,12 @@ export const UI: Store = {
       series: 'sonyps5de',
       url: 'https://store.ui.com/collections/early-access/products/dream-router-ea',
     },
-    // {
-    //   brand: 'sony',
-    //   model: 'ps5 console',
-    //   series: 'sonyps5c',
-    //   url: 'https://store.ui.com/products/unifi-6-long-range-access-point',
-    // },
+    {
+      brand: 'sony',
+      model: 'ps5 console',
+      series: 'sonyps5c',
+      url: 'https://store.ui.com/collections/unifi-network-unifi-os-consoles/products/unifi-dream-machine',
+    },
 
     
   ],

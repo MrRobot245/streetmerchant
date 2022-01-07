@@ -169,6 +169,8 @@ import chalk from 'chalk';
 import {UltimaInformatica} from './utlimainformatica';
 import {XtremMedia} from './xtremmedia';
 import {MicrosoftCA} from './microsoft-ca';
+import {UI} from './ui';
+
 
 export const storeList = new Map([
   [AComPC.name, AComPC],
@@ -273,6 +275,7 @@ export const storeList = new Map([
   [MemoryExpress.name, MemoryExpress],
   [MicroCenter.name, MicroCenter],
   [MicrosoftCA.name, MicrosoftCA],
+  [UI.name, UI],
   [MightyApe.name, MightyApe],
   [Mindfactory.name, Mindfactory],
   [Msy.name, Msy],

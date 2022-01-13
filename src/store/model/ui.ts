@@ -25,19 +25,7 @@ export const UI: Store = {
       brand: 'sony',
       model: 'ps5 digital',
       series: 'sonyps5de',
-      url: 'https://ca.store.ui.com/collections/unifi-network-wireless/products/unifi-ap-6-lite',
-    },
-    {
-      brand: 'sony',
-      model: 'ps5 console',
-      series: 'sonyps5c',
-      url: 'https://ca.store.ui.com/collections/unifi-network-unifi-os-consoles/products/udm-pro',
-    },
-    {
-      brand: 'microsoft',
-      model: 'xbox series x',
-      series: 'xboxsx',
-      url: 'https://ca.store.ui.com/collections/operator-accessories/products/u-poe-af',
+      url: 'https://ca.store.ui.com/collections/unifi-network-wireless/products/unifi-ap6-professional',
     },
 
     
